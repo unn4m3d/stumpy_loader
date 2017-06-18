@@ -1,5 +1,7 @@
 # stumpy_loader
 
+[![Build Status](https://travis-ci.org/unn4m3d/stumpy_loader.svg?branch=master)](https://travis-ci.org/unn4m3d/stumpy_loader)
+
 (**EXPERIMENTAL**) Extension-based loader for image files
 
 :warning: This project is experimental, so you can experience compilation errors with third-party loaders
